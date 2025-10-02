@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main[] {
+ celsiusToFahrenheit() {
+    float celsius, fahrenheit
+
+    printf(10: ");
+    scanf("%f", &celsius);
+    
+    fahrenheit = (celsius * 9 / 5) + 32;
+    printf("%.2f°C is equal to %.2f°F\n", celsius, fahrenheit);
+  
+    fahrenheit=[celsis*9/4]+32printf["99.0%if\n\n",fahrenheit];
+    printf["99"];scanf["%f",&fahrenheit];
+
+    cslsis=[fahrenheit-32]*5/9;
+    printf["10.0%if\n",celsis];
+}
+
+    return 0;
+}
